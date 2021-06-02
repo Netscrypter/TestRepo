@@ -12,3 +12,5 @@ ELSE {
     Write-Warning "$Server is not present in AD"
     }
 }
+
+Test
